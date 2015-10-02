@@ -1,0 +1,280 @@
+    1  ll
+    2  ls
+    3  pwd
+    4  a
+    5  ls
+    6  touch test.dat
+    7  rm test.dat 
+    8  emacs 
+    9  vim
+   10  vi
+   11  less /etc/network/interfaces 
+   12  vi /etc/network/interfaces 
+   13  sudo vi /etc/network/interfaces 
+   14  emacs
+   15  apt-get install emacs
+   16  sudo apt-get install emacs
+   17  emacs /etc/network/interfaces 
+   18  sudo emacs /etc/network/interfaces 
+   19  ifconfig
+   20  ls
+   21  ifconfig
+   22  ls
+   23  ping 192.168.11.20
+   24  ifconfig
+   25  man shutdown
+   26  shutdown -r
+   27  sudo shutdown -r
+   28  sudo shutdown -r now
+   29  ifconfig
+   30  last
+   31  sudo raspi-config 
+   32  logout
+   33  passwd
+   34  sudo raspi-config 
+   35  time
+   36  datetime
+   37  date
+   38  ifconfig
+   39  ls
+   40  ssh -i ~/.ssh/FourdiaryRecommend.pem -p 22 ubuntu@54.65.188.171
+   41  sudo ssh -i ~/.ssh/FourdiaryRecommend.pem -p 22 ubuntu@54.65.188.171
+   42  ssh -i ~/.ssh/FourdiaryRecommend.pem -p 22 54.65.188.171
+   43  ssh -i ~/.ssh/FourdiaryRecommend.pem -p 22 54.92.46.52
+   44  ssh -i ~/.ssh/FourdiaryRecommend.pem -p 22 ubuntu@54.92.46.52
+   45  ll
+   46  ls
+   47  mkdir .ssh
+   48  mv FourdiaryRecommend.pem .ssh/
+   49  ssh -i .ssh/FourdiaryRecommend.pem ubuntu@54.65.188.171
+   50  ssh -i .ssh/FourdiaryRecommend.pem ubuntu@54.65.188.171 -p 22
+   51  ssh -i .ssh/FourdiaryRecommend.pem -p 22 ubuntu@54.65.188.171
+   52  ssh -i ~/.ssh/FourdiaryRecommend.pem -p 22 ubuntu@54.65.188.171
+   53  ifconfig
+   54  ls
+   55  mv phiagsui_server_key.pem .ssh/
+   56  ssh -i ~/.ssh/phiagsui_server_key.pem -p 22 ubuntu@54.186.238.14 
+   57  ssh -i ~/.ssh/phiagsui_server_key.pem ubuntu@54.186.238.14
+   58  ssh -i ~/.ssh/phiagsui_server_key.pem -p 22 ubuntu@54.186.238.14 
+   59  ping twitter.com
+   60  ping 192.168.11.100
+   61  ll
+   62  last
+   63  ll
+   64  ping twitter.com
+   65  sudo nano /etc/network/interfaces
+   66  ping twitter.com
+   67  source /etc/network/interfaces
+   68  sudo nano /etc/resolv.conf 
+   69  sudo /etc/init.d/networking reload 
+   70  ping twitter.com
+   71  ping 192.168.11.200
+   72  ping 192.168.11.100
+   73  sudo nano /etc/resolv.conf 
+   74  sudo nano /etc/network/interfaces
+   75  sudo reboot 
+   76  ping twitter.com
+   77  ll
+   78  ls
+   79  ls -la
+   80  ls .ssh
+   81  cat .bashrc
+   82  ls
+   83  ssh -i ~/.ssh/phiagsui_server_key.pem ubuntu@54.186.238.14
+   84  ssh -i ~/.ssh/phiagsui_server_key.pem ubuntu@54.186.238.14 -R10022:192.168.11.20:22
+   85  adduser ubuntu
+   86  sudo adduser ubuntu
+   87  su ubuntu
+   88  sudo usermod -G sudo ubuntu
+   89  su ubuntu
+   90  ping twitter.com
+   91  less .bashrc
+   92  ll
+   93  ls
+   94  ls -la
+   95  emacs .bashrc
+   96  git
+   97  ll
+   98  ls
+   99  ls -la
+  100  rm -rf .emacs.d
+  101  git clone https://github.com/phigasui/.emacs.d.git
+  102  emacs .bashrc
+  103  emacs --version
+  104  apt-get install emacs24
+  105  apt-get install emacs24.4
+  106  sudo apt-get install emacs24.4
+  107  sudo apt-get install emacs-24.4
+  108  sudo apt-get upgrade
+  109  sudo apt-get update
+  110  sudo apt-get install librsvg2-dev librsvg2-2 libgpm-dev libdbus-1-dev libgconf2-dev libfreetype6-dev libm17n-dev libotf-dev libxft-dev xaw3dg xaw3dg-dev libxpm-dev libpng12-0 libpng12-dev  zlib1g-dev libjpeg62 libjpeg62-dev libgif-dev libncurses-dev libgnutls-dev libselinux1-dev libacl1-dev
+  111  sudo apt-get install libtiff4-dev
+  112  sudo apt-get install imagemagick
+  113  wget ftp://ftp.ring.gr.jp/pub/GNU/emacs/emacs-24.4.tar.xz
+  114  ll
+  115  ls
+  116  ls -la
+  117  rm ﾃ・ﾑ9ﾞ 
+  118  rm aﾐ・�繦・ﾘﾍｮQ・ 
+  119  rm *bk*
+  120  ls -la
+  121  rm \?F 
+  122  rm gA揉｡J2k・会ｳｸﾀﾂ 
+  123  rm k
+  124  rm k2j牲・ﾀ29mR・c愧1・ﾛ栖B1fｽG寇�轤ｲ_・ﾄ考ﾓ 
+  125  rm @・・･mr氈ﾋ槽ﾛFｺﾍ7Lﾈsﾌﾟ 
+  126  rm ・*
+  127  ls -la
+  128  rm ｳs・↓ｪﾋ 
+  129  rm U沮棚遯ｲd・ 
+  130  rm w・・rC・\=ｮv・ﾍ楝 
+  131  rm 亮VL與ﾁLKFｽﾛuﾐWﾝ譬ｱｴ･-坿1 
+  132  rm 原T 
+  133  rm _與ォｷ､F｢OﾆﾜSUR都・｣絜ﾊ・IﾎHｾ� 
+  134  rm 貯wA�~ 
+  135  ll
+  136  ls -la
+  137  emacs .bashrc
+  138  wget ftp://ftp.ring.gr.jp/pub/GNU/emacs/emacs-24.4.tar.xz
+  139  wget ftp://ftp.ring.gr.jp/pub/GNU/emacs/emacs-24.4.tar.xz*
+  140  wget http://ftp.gnu.org/pub/gnu/emacs/emacs-24.4.tar.xz
+  141  gpg --verify emacs-24.4.tar.xz.sig
+  142  tar xvJf emacs-24.4.tar.xz 
+  143  cd emacs-24.4/
+  144  ./configure 
+  145  ls -la
+  146  cd emacs-24.4/
+  147  ./configure 
+  148  make
+  149  make install
+  150  sudo make install
+  151  emacs-24.4 
+  152  sudo raspi-config 
+  153  raspistill -o image.jpg
+  154  sudo raspi-config 
+  155  raspistill -o image.jpg
+  156  ll
+  157  ls
+  158  raspistill -o image.jpg
+  159  raspivid -o video.h264 -t 10000
+  160  ls
+  161  sudo apt-get install motion
+  162  sudo apt-get remove motion
+  163  wget https://www.dropbox.com/s/0gzxtkxhvwgfocs/motion-mmal.tar.gz
+  164  tar zxvf motion-mmal.tar.gz 
+  165  ll
+  166  ls
+  167  emacs motion-mmalcam.conf 
+  168  mv motion-mmalcam.conf.backup
+  169  mv motion-mmalcam.conf motion-mmalcam.conf.backup
+  170  mv motion-mmalcam.conff motion-mmalcam.conf
+  171  sudo ./motion -c motion-mmalcam.conf
+  172  curl localhost:8081
+  173  emacs /etc/ssh/sshd_config
+  174  sudo emacs /etc/ssh/sshd_config
+  175  cd ~/.ssh/
+  176  ll
+  177  ls
+  178  ssh-keygen -t rsa -f raspi_rsa
+  179  ll
+  180  ls
+  181  ls -l
+  182  ls -la
+  183  chmod 700 .ssh
+  184  ls -la
+  185  cd .ssh
+  186  ls -la
+  187  cat raspi_rsa.pub 
+  188  cat raspi_rsa.pub >> authorized_keys
+  189  cat authorized_keys
+  190  chmod 600 authorized_keys 
+  191  service sshd restart
+  192  sudo service sshd restart
+  193  which sshd
+  194  sshd -t
+  195  sudo /etc/init.d/ssh restart
+  196  ll
+  197  ls
+  198  ps ax
+  199  ps ax | grep motion
+  200  ll
+  201  pwd
+  202  sudo service apache2 status
+  203  sudo service apache status
+  204  sudo service nginx status
+  205  netsat
+  206  netstat
+  207  python
+  208  python -m SimpleHttpServer
+  209  python3 -m SimpleHTTPServer
+  210  python3 -m http.server
+  211  bg
+  212  raspistill -o image.png
+  213  time raspistill -o image.png
+  214  ll
+  215  ls
+  216  mkdir PosTelProt
+  217  cd PosTelProt/
+  218  emacs mail_notifier.py
+  219  ll
+  220  ls
+  221  raspistill -o tmp.png
+  222  raspistill -o current.png
+  223  raspistill -o tmp.png
+  224  emacs mail_notifier.py
+  225  ./mail_notifier.py 
+  226  pip --version
+  227  pip3
+  228  cd ..
+  229  git clone https://github.com/yyuu/pyenv.git ~/.pyenv
+  230  emacs .bashrc
+  231  exec $SHELL
+  232  ll
+  233  top
+  234  sudo ./motion -c motion-mmalcam.conf
+  235  ps ax
+  236  cd PosTelProt/
+  237  python -m http.server 8000 &
+  238  fg
+  239  emacs mail_notifier.py 
+  240  ./mail_notifier.py 
+  241  emacs mail_notifier.py 
+  242  ./mail_notifier.py 
+  243  emacs mail_notifier.py 
+  244  ./mail_notifier.py 
+  245  mkdir mails
+  246  ./mail_notifier.py 
+  247  ll mails/
+  248  python -m http.server 8000
+  249  raspistill -o tmp.png
+  250  python -m http.server 8000
+  251  ll
+  252  ll processing/
+  253  rm -rf processing/
+  254  ll
+  255  git remote add origin
+  256  git init
+  257  git add .
+  258  git commit -m 'initial commit'
+  259  git config --global user.emal "phigasui@gmail.com"
+  260  git config --global user.name "phigasui"
+  261  git config --global user.email "phigasui@gmail.com"
+  262  less ../.gitconfig 
+  263  vi ../.gitconfig 
+  264  git remote add origin
+  265  git remote add origin https://github.com/phigasui/PosTelProt.git
+  266  git push -u origin master
+  267  git status
+  268  git push -u origin master
+  269  git commit -m "initial commit"
+  270  git push -u origin master
+  271  vi requirements.txt
+  272  pip list
+  273  vi requirements.txt 
+  274  vi README.md
+  275  git status
+  276  git add README.md requirements.txt
+  277  git commit -m 'initial commit'
+  278  git push
+  279  history
+  280  history > command.history
