@@ -39,9 +39,9 @@ def check():
     # old_edge.save("processing/old_edge.jpg", 'JPEG')
 
     diff_img = ImageChops.difference(new_contents, old_contents)
-    diff_img.save("processing/diff.jpg", 'JPEG')
+    # diff_img.save("processing/diff.jpg", 'JPEG')
     diff_img_gray = ImageOps.grayscale(diff_img)
-    diff_img_gray.save("processing/diff_gray.jpg", 'JPEG')
+    # diff_img_gray.save("processing/diff_gray.jpg", 'JPEG')
 
     diff = sum(diff_img_gray.getdata())
 
